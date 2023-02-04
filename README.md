@@ -37,7 +37,7 @@ $ cd DjangoAPIBoilerplate/
 $ python3 -m venv .venv
 
 # Activate it
-$ . .venv/bin/activate # source .venv/bin/activate ou ..venv\Scripts\activate (windows)
+$ . .venv/bin/activate # source .venv/bin/activate or ..venv\Scripts\activate (windows)
 
 # And install the requieriments.txt
 $ pip install -r requirements.txt
